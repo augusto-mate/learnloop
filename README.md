@@ -15,6 +15,10 @@
 
 LearnLoop creates a **peer learning loop** where students teach each other with AI support, reinforcing knowledge while building confidence.
 
+<p align="center">
+  <img src="./assets/learnloop_demo.gif" alt="LearnLoop AI Feedback Loop Demo" width="700"/>
+</p>
+
 <br>
 
 ## 🌍 Impact & Vision (Committed to SDG 4)
